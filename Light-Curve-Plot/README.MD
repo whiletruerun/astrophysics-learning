@@ -40,7 +40,7 @@ Source:
 
 ## Sample Visualization
 
-(Add your plot image here)
+
 
 ## What I Learned
 
