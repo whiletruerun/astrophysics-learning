@@ -17,6 +17,8 @@ In this notebook, I experimented with downloading, plotting, and visualizing lig
 
 Target:
 - TIC 100100827
+(a planet which is also known as WASP-18)
+- Sector 69
 
 Source:
 - TESS mission data accessed through the Lightkurve API
