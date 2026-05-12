@@ -22,7 +22,7 @@ The gravitational force between the star and planet determines the planet's acce
 
 The initial orbital velocity is estimated using the vis-viva equation:
 
-:contentReference[oaicite:1]{index=1}
+![Orbit-Plot](images/vis_a_vis_formula.png)
 
 where:
 - \(r\) is the instantaneous orbital distance
